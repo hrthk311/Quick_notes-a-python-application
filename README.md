@@ -1,4 +1,4 @@
-# 📝 Simple Note App (Tkinter)
+# 📝 Simple Note App (Quick_notes)
 
 **Simple Note App** is a beginner-friendly Python desktop application built using Tkinter. It allows users to create, edit, and delete text notes, which are automatically saved to a local file.
 
